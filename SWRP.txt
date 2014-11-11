@@ -1,0 +1,7 @@
+"Star wars role play"
+{
+	"base"		"nutscript"
+	"title"		"Star Wars Role Play"
+	"author"	"aarongaming100"
+	"menusystem" "1"
+}
